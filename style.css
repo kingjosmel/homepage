@@ -219,6 +219,10 @@ nav img {
         display: none;
     }
 
+    nav img {
+        display: block;
+    }
+
    .img-mob {
     display: block;
     width: 100%;
@@ -243,5 +247,10 @@ nav img {
 
     .first {
         margin-bottom: 20px;
+
+    }
+
+    .first img {
+        width: 100px;
     }
 }
